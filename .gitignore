@@ -1,0 +1,8 @@
+node_modules
+.env
+key.p12
+key.pem
+*.pyc
+local_settings.py
+venv/
+.idea/

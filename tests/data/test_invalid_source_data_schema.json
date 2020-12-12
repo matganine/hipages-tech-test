@@ -1,0 +1,8 @@
+{
+  "$id": "com.hipages.schemas.source_data_schema",
+  "type": "object",
+  "definitions": {},
+  "$schema": "http://iglucentral.com/schemas/com.snowplowanalytics.self-desc/schema/jsonschema/1-0-0#",
+  "properties": true,
+  "required": ["event_id","user", "action", "url", "timestamp"]
+}
